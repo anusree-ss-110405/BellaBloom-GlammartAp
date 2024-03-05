@@ -1,0 +1,42 @@
+
+.brands {
+    margin: 20px;
+  }
+  
+  .brands h1 {
+    font-size: 45px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+  }
+  
+  .brands-offers-1{
+    display: flex;
+    margin-top: 20px;
+  }
+  .brands-offers-2 {
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+  }
+  
+  .brands-offers-1 ul,
+  .brands-offers-2 ul {
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+  }
+  
+  .brands-offers-1 li,
+  .brands-offers-2 li {
+    margin: 0 10px;
+    text-decoration: none; 
+}
+  
+  .brands-offers-1 img,
+  .brands-offers-2 img {
+    Width: 60vh;
+    height: auto;
+    border-radius: 8px; 
+  }
+  
